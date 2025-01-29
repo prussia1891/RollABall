@@ -14,7 +14,6 @@
 - The player controls the movement of the ball through keyboard input. 
 - W is mapped to back direction, A is mapped to left direction, S is mapped to front direction and D is mapped to the right direction. 
 - When the player presses the space bar and the ball is on the plane, the ball can jump.
-- The length of time to hold down the space bar determines the height of the ball jumping. 
 - Through the player's input, the ball can realize the superimposed motion in three dimensions.
 
 
@@ -25,3 +24,6 @@
 
 
 ### **Demo Video**
+
+https://github.com/user-attachments/assets/09cca01f-96e6-4413-84bb-95be8125d1e6
+
